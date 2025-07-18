@@ -37,4 +37,4 @@ If you found this project helpful, please consider **starring** ⭐ the reposito
 
 ### 📢 Stay Connected
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
+
